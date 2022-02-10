@@ -15,20 +15,28 @@ Generative Adversarial Networks, or GANs for short, are an approach to [generati
 **What is a generative model?**
 
 Generative models can generate new data instances. Generative modeling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset.
+
 ![Meme](https://miro.medium.com/max/1152/1*Lhma2luPtlXXKGNcwFPmrg.jpeg)
+
 For example, a single variable may have a known data distribution, such as a Gaussian distribution, or bell shape. A generative model may be able to sufficiently summarize this data distribution, and then be used to generate new variables that plausibly fit into the distribution of the input variable. A really good generative model may be able to generate new examples that are not just plausible, but indistinguishable from real examples from the problem domain.
 
 **Examples of generative models**
 
-### Naive Bayes
+## Naive Bayes
 
 It is a simple but surprisingly powerful algorithm for predictive modeling. Naive Bayes works by summarizing the probability distribution of each input variable and the output class. When a prediction is made, the probability for each possible outcome is calculated for each variable, the independent probabilities are combined, and the most likely outcome is predicted. Used in reverse, the probability distributions for each variable can be sampled to generate new plausible (independent) feature values.
 
-### Latent Dirichlet Allocation
+## Latent Dirichlet Allocation
 
-It is one of the most popular topic modeling methods. Each document is made up of various words, and each topic also has various words belonging to it. The aim of LDA is to find topics a document belongs to, based on the words in it. Confused much? Here is an example to walk you through it.
+It is one of the most popular [topic modeling](https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2) methods. Each document is made up of various words, and each topic also has various words belonging to it. The aim of LDA is to find topics a document belongs to, based on the words in it. Confused much? Here is an example to walk you through it.
 
-### Gaussian Mixture Model
+## Gaussian Mixture Model
+
+A Gaussian mixture model is a probabilistic model that assumes all the data points are generated from a mixture of a finite number of Gaussian distributions with unknown parameters.
+
+![Meme](https://tenor.com/view/clueless-no-idea-thor-i-have-no-i-dea-whats-going-on-gif-4494279)
+
+One can think of mixture models as generalizing k-means clustering to incorporate information about the covariance structure of the data as well as the centers of the latent Gaussians.
 
 **Example Pages**
 
