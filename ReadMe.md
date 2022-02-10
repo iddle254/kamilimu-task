@@ -34,7 +34,7 @@ It is one of the most popular [topic modeling](https://towardsdatascience.com/la
 
 A Gaussian mixture model is a probabilistic model that assumes all the data points are generated from a mixture of a finite number of Gaussian distributions with unknown parameters.
 
-![Meme](https://tenor.com/view/clueless-no-idea-thor-i-have-no-i-dea-whats-going-on-gif-4494279)
+![Meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRig5tsZDbTvQsODbQ5-E1t89X2odIlrrYt4Q7wWHOLJI5iuHxEGUYRrm2gyKthY871BDc&usqp=CAU)
 
 One can think of mixture models as generalizing k-means clustering to incorporate information about the covariance structure of the data as well as the centers of the latent Gaussians.
 
