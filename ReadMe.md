@@ -1,3 +1,11 @@
+**What is a git?**
+
+Git is an open source version control system that helps in managing large and small projects efficiently. One code base can have multiple versions which minimizes the risk especially when breaking changes are introduced to a project.
+
+**What is a github?**
+
+Github is an online repository for open source projects that makes it easier for engineers to collaborate on projects.
+
 # [Generative Adverserial Networks](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
